@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "歌川廣重《東海道五十三次》系列之《岡崎：矢矧之橋》1833-34.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

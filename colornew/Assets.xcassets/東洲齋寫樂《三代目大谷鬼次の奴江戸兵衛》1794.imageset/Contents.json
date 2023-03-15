@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "東洲齋寫樂《三代目大谷鬼次の奴江戸兵衛》1794.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
